@@ -1,0 +1,14 @@
+{
+  "name": "isomorphic_blog",
+  "version": "0.0.1",
+  "description": "Isomorphic JavaScript Blog",
+  "devDependencies": {
+    "express": "^4.13.1",
+    "express-handlebars": "^2.0.1",
+    "handlebars": "^4.0.2",
+    "node-jsx": "^0.13.3",
+    "react": "^0.13.3",
+    "react-global": "^0.1.8",
+    "react-router": "^0.13.3"
+  }
+}
